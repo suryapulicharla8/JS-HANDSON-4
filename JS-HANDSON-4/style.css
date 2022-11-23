@@ -1,0 +1,34 @@
+h1 {
+    color:rgb(38, 255, 0);
+    text-align: center;
+    background-color: hsl(115, 88%, 31%);
+}
+h2 {
+    color:red;
+    text-align: center;
+    background-color: aqua;
+}
+h3{
+    color:blue;
+    background-color: black;
+    text-align: center;
+}
+div {
+    background-color: blueviolet;
+}
+h5 {
+    color:blue;
+
+}
+p {
+    color:red;
+}
+pre {
+    color:darkorange;
+    background-color: aquamarine;
+    /* border: 3px solid green; */
+}
+pre:hover {
+    background-color: black ;
+    color: whitesmoke;
+}
